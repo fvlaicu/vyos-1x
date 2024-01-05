@@ -729,6 +729,7 @@
                     <format>!ipv6net</format>
                     <description>IPv6 address</description>
                   </valueHelp>
+                  <multi/>
                   <constraint>
                     <validator name="ipv4-address"/>
                     <validator name="ipv4-prefix"/>
